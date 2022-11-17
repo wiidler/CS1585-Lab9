@@ -1,0 +1,20 @@
+PROBLEM 1:
+
+1. operator [] = 500,500
+   length = 502,500
+
+2. 1,000 times
+
+3. The average function creates a copy of the vector each time it is called.
+
+4. Yes, since the average function is now pass by reference, it does not make 1000 copies.
+
+5. 0 times.
+
+PROBLEM 2:
+
+1. Line 11
+
+2. 11,238
+
+3. 
